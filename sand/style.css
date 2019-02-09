@@ -68,3 +68,6 @@ a:hover {
 .menu-item:hover>.submenu {
 	display: flex;
 }
+.menu-item:active>.submenu {
+	display: none;
+}
